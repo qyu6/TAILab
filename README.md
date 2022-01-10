@@ -1,18 +1,18 @@
-# TAI-Lab
+# TAILab
 T.的人工智能实验室 (Welcome issue or PR)
 
 ![Forks](https://img.shields.io/github/forks/qyu6/TAILab?color=red) ![Stars](https://img.shields.io/github/stars/qyu6/TAILab) ![code size](https://img.shields.io/github/commit-activity/m/qyu6/TAILab?color=yellow) ![code size](https://img.shields.io/github/last-commit/qyu6/TAILab?color=purple) ![code size](https://img.shields.io/github/repo-size/qyu6/TAILab?&color=gree) ![code size](https://img.shields.io/github/license/qyu6/TAILab?color=lightgrey)
 
 ------
 
-### 1.TAI-Lab平台地址|Web Address
+### 1.TAILab平台地址|Web Address
 
 [Streamlit](https://share.streamlit.io/tqthooo2021/tai-lab/main/labmain.py) (手机端/电脑端均可使用, Access Code: tailab123456)
 
-### 2.TAI-Lab平台主模块框架|Lab Framework
+### 2.TAILab平台主模块框架|Lab Framework
 
 ```
-<TAI-Lab Framework> *(key words...)
+<TAILab Framework> *(key words...)
 ├── [1]-在线Python编程环境 (在线python编译环境，scipts/API/etc)
 ├── [2]-统计学模型API[...]
 ├── [3]-机器学习模型API
