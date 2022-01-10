@@ -7,7 +7,9 @@ T.的人工智能实验室 (Welcome issue or PR)
 
 ### 1.TAILab平台地址|Web Address
 
-[Streamlit](https://share.streamlit.io/tqthooo2021/tai-lab/main/labmain.py) (手机端/电脑端均可使用, Access Code: tailab123456)
+https://share.streamlit.io/qyu6/tailab/main/main.py
+
+Access code: TAILab
 
 ### 2.TAILab平台主模块框架|Lab Framework
 
