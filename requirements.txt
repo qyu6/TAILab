@@ -1,0 +1,9 @@
+# T.AI-lab dependencies:
+
+pandas ==1.0.5
+numpy == 1.21.2
+pytesseract == 0.3.8
+opencv-python == 4.5.3.56
+matplotlib==3.4.3
+scikit-learn==1.0
+streamlit == 1.0.0
