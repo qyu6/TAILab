@@ -26,6 +26,7 @@ from SCodingShow import *
 
 
 # TAI-Lab Main Content
+@st.cache()
 def main():    
     st.sidebar.header('©TAILab')
     # st.sidebar.markdown('https://github.com/tqthooo2021/TAI-Lab')
