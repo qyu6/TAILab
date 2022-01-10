@@ -1,7 +1,7 @@
 # TAI-Lab
 T.的人工智能实验室 (Welcome issue or PR)
 
-![Forks](https://img.shields.io/github/forks/tqthooo2021/tai-lab?color=red) ![Stars](https://img.shields.io/github/stars/tqthooo2021/tai-lab) ![code size](https://img.shields.io/github/commit-activity/m/tqthooo2021/tai-lab?color=yellow) ![code size](https://img.shields.io/github/last-commit/tqthooo2021/tai-lab?color=purple) ![code size](https://img.shields.io/github/repo-size/tqthooo2021/tai-lab?&color=gree) ![code size](https://img.shields.io/github/license/tqthooo2021/tai-lab?color=lightgrey)
+![Forks](https://img.shields.io/github/forks/qyu6/TAILab?color=red) ![Stars](https://img.shields.io/github/stars/qyu6/TAILab) ![code size](https://img.shields.io/github/commit-activity/m/qyu6/TAILab?color=yellow) ![code size](https://img.shields.io/github/last-commit/qyu6/TAILab?color=purple) ![code size](https://img.shields.io/github/repo-size/qyu6/TAILab?&color=gree) ![code size](https://img.shields.io/github/license/qyu6/TAILab?color=lightgrey)
 
 ------
 
